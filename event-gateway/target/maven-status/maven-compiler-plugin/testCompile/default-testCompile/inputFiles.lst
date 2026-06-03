@@ -1,0 +1,3 @@
+/workspaces/event-ledger-system/event-gateway/src/test/java/com/eventledger/event_gateway/EventGatewayApplicationTests.java
+/workspaces/event-ledger-system/event-gateway/src/test/java/com/eventledger/event_gateway/controller/EventControllerTests.java
+/workspaces/event-ledger-system/event-gateway/src/test/java/com/eventledger/event_gateway/service/EventServiceTests.java

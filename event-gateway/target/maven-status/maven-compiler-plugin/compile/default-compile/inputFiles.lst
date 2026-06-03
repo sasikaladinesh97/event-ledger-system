@@ -1,0 +1,7 @@
+/workspaces/event-ledger-system/event-gateway/src/main/java/com/eventledger/event_gateway/EventGatewayApplication.java
+/workspaces/event-ledger-system/event-gateway/src/main/java/com/eventledger/event_gateway/config/GatewayConfig.java
+/workspaces/event-ledger-system/event-gateway/src/main/java/com/eventledger/event_gateway/controller/EventController.java
+/workspaces/event-ledger-system/event-gateway/src/main/java/com/eventledger/event_gateway/entity/Event.java
+/workspaces/event-ledger-system/event-gateway/src/main/java/com/eventledger/event_gateway/repository/EventRepository.java
+/workspaces/event-ledger-system/event-gateway/src/main/java/com/eventledger/event_gateway/service/EventService.java
+/workspaces/event-ledger-system/event-gateway/src/main/java/com/eventledger/event_gateway/util/JsonAttributeConverter.java
